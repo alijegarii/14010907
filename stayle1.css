@@ -1,0 +1,41 @@
+    .logoo {
+        width: 150px;
+        height: 150px;
+        text-align: center;
+        display: inline;
+        float: left;
+    }
+    
+    .logbox {
+        float: right;
+    }
+    
+    .log {
+        float: right;
+        color: black;
+        background-color: rgb(255, 0, 43);
+    }
+    
+    .logbut {
+        float: right;
+        color: black;
+        background-color: rgb(255, 0, 0);
+    }
+    
+    ul {
+        display: inline-block;
+    }
+    
+    .la {
+        font-size: 20px;
+    }
+    
+    button {
+        font-size: xx-large;
+        font-size: 20px;
+    }
+    
+    titr {
+        text-align: center;
+        display: inline-block;
+    }
